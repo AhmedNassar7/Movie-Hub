@@ -1,0 +1,47 @@
+.home-container {
+    position: relative;
+}
+
+.welcome-section {
+    position: relative;
+    overflow: hidden;
+}
+
+.welcome-overlay {
+    z-index: 0;
+    background: rgba(255, 255, 255, 0.4);
+    filter: blur(8px);
+}
+
+.carousel-caption {
+    z-index: 1;
+    bottom: 20px;
+    text-align: center;
+}
+
+.card {
+    transition: transform 0.3s ease-in-out;
+}
+
+.card .card-title {
+    color: black !important; 
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.favorite-icon {
+    cursor: pointer;
+    font-size: 1.5rem;
+    transition: color 0.3s;
+}
+
+.star-icon {
+    transition: transform 0.3s;
+}
+
+.star-icon:hover {
+    transform: scale(1.2);
+}
+
