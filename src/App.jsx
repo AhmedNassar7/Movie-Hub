@@ -4,7 +4,7 @@ import Home from './pages/Home';
 import MovieDetails from './pages/MovieDetails';
 import Login from './pages/Login';
 import Register from './pages/Register';
-import Favorites from './pages/Favorites'; // Ensure this import is included
+import Favorites from './pages/Favorites';
 import PageNotFound from './pages/PageNotFound';
 
 function App() {
