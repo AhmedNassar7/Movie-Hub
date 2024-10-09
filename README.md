@@ -1,6 +1,6 @@
 # Movie Website
 
-![Movie Website Banner](path/to/your/image.png) <!-- Replace with the actual path to your project image -->
+<!-- ![Movie Website Banner](path/to/your/image.png) Replace with the actual path to your project image -->
 
 ## Overview
 
