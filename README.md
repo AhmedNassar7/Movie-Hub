@@ -1,10 +1,10 @@
-# Movie Website
+# Movie Hub
 
 <!-- ![Movie Website Banner](path/to/your/image.png) Replace with the actual path to your project image -->
 
 ## Overview
 
-The **Movie Website** is a modern web application that allows users to browse, search, and manage their favorite movies. Built with React, Redux, and Axios, this project demonstrates my skills in front-end development, state management, and API integration.
+This is **Movie Website** a modern web application that allows users to browse, search, and manage their favorite movies. Built with React, Redux, and Axios, this project demonstrates my skills in front-end development, state management, and API integration.
 
 ## Features
 
